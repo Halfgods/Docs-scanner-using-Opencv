@@ -11,10 +11,8 @@
 
 ---
 
-## 🎥 Demo (Click to Play)
-<video width="320" height="240" controls>
-  <source src="final_video.mp4v" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/2d25cba5-605b-4fdc-af80-740deae9a75a
+
 
 ---
 
